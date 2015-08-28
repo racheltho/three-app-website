@@ -1,0 +1,10 @@
+body {
+    background-color: #00B4CC;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+img {
+	border-radius: 30px;
+	padding: 10px;
+}
